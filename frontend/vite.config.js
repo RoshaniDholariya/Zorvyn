@@ -14,8 +14,8 @@ export default defineConfig({
   },
   server: {
     proxy: {
-      "/api": "http://localhost:5000",
-      "/api-docs": "http://localhost:5000",
+      "/api": "https://zorvyn-y06e.onrender.com",
+      "/api-docs": "https://zorvyn-y06e.onrender.com",
     },
   },
   build: {

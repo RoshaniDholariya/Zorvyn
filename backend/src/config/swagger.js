@@ -10,7 +10,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:5000"
+        url: "https://zorvyn-y06e.onrender.com"
       }
     ],
     components: {
