@@ -7,7 +7,7 @@ A backend system for managing financial records with role-based access control, 
 ## 🚀 Live Demo
 
 🔗 **Deployed API:**
-`zorvyn-delta-dusky.vercel.app`
+`https://zorvyn-xxe3.vercel.app/`
 
 ---
 
